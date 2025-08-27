@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/Desktop/github/UnrealChess/UnrealChess/Content/TopDown/Team_blueprints/Timer_widget.uasset",
+				"C:/Users/User/Desktop/github/UnrealChess/UnrealChess/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset"
+			]
+		}
+	]
+}
